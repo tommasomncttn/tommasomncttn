@@ -17,9 +17,9 @@ Some Projects Related to Deep Learning, Natural Language Processing, and Evoluti
 
 
 [![Neural Augmentation for Text Classification](https://img.shields.io/badge/Neural%20Augmentation%20for%20Text%20Classification-%2300cc99.svg?style=for-the-badge)](https://github.com/tommasomncttn/Neural-Augmentation-for-Text-Classification)
-[![NAS4CNN: Neural Architecture Search For Image Classification](https://img.shields.io/badge/NAS4CNN-%23ff6600.svg?style=for-the-badge)](https://github.com/tommasomncttn/NAS4CNN)
-[![Semantic Enhanced Content Planning](https://img.shields.io/badge/Semantic%20Enhanced%20Content%20Planning-%230066cc.svg?style=for-the-badge)](https://github.com/traopia/KGNarrative)
-[![CICERO: Legal Writing Assistant](https://img.shields.io/badge/CICERO-%23ff3333.svg?style=for-the-badge)](https://github.com/DIAG-Sapienza-BPM-Smart-Spaces/Cicero)
+[![Neuroevolution for Image Classification: Neural Architecture Search For Image Classification](https://img.shields.io/badge/NAS4CNN-%23ff6600.svg?style=for-the-badge)](https://github.com/tommasomncttn/NAS4CNN)
+[![Semantic Enhanced Content Planning for Text Generation](https://img.shields.io/badge/Semantic%20Enhanced%20Content%20Planning-%230066cc.svg?style=for-the-badge)](https://github.com/traopia/KGNarrative)
+[![CICERO, a Legal Writing Assistant](https://img.shields.io/badge/CICERO-%23ff3333.svg?style=for-the-badge)](https://github.com/DIAG-Sapienza-BPM-Smart-Spaces/Cicero)
 
 
 </div>

@@ -21,7 +21,5 @@ Some Projects Related to Deep Learning, Natural Language Processing, and Evoluti
 [![Semantic Enhanced Content Planning](https://img.shields.io/badge/Semantic%20Enhanced%20Content%20Planning-%230066cc.svg?style=for-the-badge)](https://github.com/traopia/KGNarrative)
 [![CICERO: Legal Writing Assistant](https://img.shields.io/badge/CICERO-%23ff3333.svg?style=for-the-badge)](https://github.com/DIAG-Sapienza-BPM-Smart-Spaces/Cicero)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tommasomncttn&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 </div>

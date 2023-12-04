@@ -1,7 +1,8 @@
 <div align="center">
   
 <h1 align="center">Hi 👋, I'm Tommaso</h1>
-<h3 align="center">Third-year 📚 student in artificial intelligence (📍 Vrije Universiteit) · Previously, I 💻 worked as a research assistant at 📍 ETH Zurich, 📍 Vrije Universiteit Amsterdam, and Università di 📍 Roma la Sapienza</h3>
+<h3 align="center">Third-year 📚 student in artificial intelligence (📍 Vrije Universiteit) · Previously, I 💻 worked as a research assistant at ⛰️ ETH Zurich, 🛶 Vrije Universiteit Amsterdam, and 
+ 🏟️ Università di Roma la Sapienza</h3>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/tommasomencattini)
